@@ -86,7 +86,7 @@ function QuestionText({ text }: { text?: string }) {
 // ============================================================
 
 const LOOKER_STUDIO_URL =
-  "https://datastudio.google.com/reporting/c1d52161-5387-4f00-bcda-b70b54116fc5/page/p_h1rlukz72d";
+  "https://datastudio.google.com/reporting/bdbc352b-d427-48c9-8392-b2aeba2b08a5";
 
 const DEFAULT_THEME = {
   logoEmoji:"⚔", themeColor:"#d4af37", fontSize:"22px",
